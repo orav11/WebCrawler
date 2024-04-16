@@ -1,6 +1,7 @@
 # WebCrawler
 
 Components and system design: 
+
 CrawlerService - crawls the url recursively, parsing the HTML and collecting all the links
 
 TrieService - trie data structure to hold the urls efficiently
